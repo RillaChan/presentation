@@ -4,7 +4,4 @@ cats
 
 123
 
-<<<<<<< HEAD
-=======
 Qwerty
->>>>>>> new_branch
